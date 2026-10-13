@@ -1,36 +1,77 @@
-## Olá! Eu sou o Diogo 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Diogo%20Vieira&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Python%20%C2%B7%20automa%C3%A7%C3%A3o%20e%20ferramentas%20internas&descSize=18&descAlignY=72" width="100%" alt="Diogo Vieira" />
 
-- 🔭 Atualmente trabalho com back-end e front-end
-- 🌱 Estudando Typescript, Arduino, C++ e Automação(CLP).
+## Sobre mim
 
-##
+Sou desenvolvedor em Campinas-SP, formado em Análise e Desenvolvimento de Sistemas. Meu trabalho é
+transformar processos manuais em software: pego rotinas que dependem de planilhas, PDFs, XML e
+e-mails e construo ferramentas que leem, validam, cruzam e entregam o resultado pronto para o sistema
+de destino. Gosto de problemas em que o dado chega bagunçado e precisa sair confiável.
 
-<div>
-  <a href="https://github.com/DiogusVincere/github-readme-stats">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DiogusVincere&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/DiogusVincere/convoychat">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogusVincere&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
-</div>
+**O que eu construo**
 
-##
+- **Aplicações desktop em Python** (Tkinter) que a equipe usa todo dia, com leitura de Excel em
+  layouts diferentes, detecção automática de colunas pelo conteúdo e geração de arquivos de importação.
+- **Aplicações web locais** com servidor HTTP em Python, interface em JavaScript puro e dados em JSON ou
+  SQLite, incluindo um gestor de demandas com quadro, lista, calendário, notificações e leitura de
+  pedidos escritos em português por regras.
+- **Extração e tratamento de dados**: tabelas de PDF (pdfplumber), XML em lote (lxml), comparação de
+  bases de fontes diferentes e relatórios de divergência.
+- **Integrações** com Outlook por COM e com APIs REST, e automação de envios e respostas.
+- **Mobile e APIs** com Flutter, Django REST, Node e Vue 3 nos projetos em equipe.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="RPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="diogo-gif" height="250" width="250" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
-</div>
+## Projetos em destaque
 
-##
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [**MangeTech**](https://github.com/DiogusVincere/mangetech) | Chamados de manutenção e gestão de ativos com QR code, papéis de usuário e histórico. API no Azure, painel web na Vercel e app mobile. Projeto em equipe. | Django REST · Vue 3 + TypeScript · Flutter |
+| [**AgroTech**](https://github.com/DiogusVincere/agrotech-app) | App de monitoramento IoT para cultivo: sensores, acionamento de bomba por API, previsão do tempo e chatbot. | Flutter · API REST · Langflow |
+| [**Mange Books**](https://github.com/DiogusVincere/mange-books) | Sistema de biblioteca com cadastro, reservas, avaliações e autenticação. | Vue 3 · Node/Express · MongoDB · JWT |
+| [**Análise de ações com K-means**](https://github.com/DiogusVincere/analise-acoes-kmeans) | Análise exploratória e clusterização de uma carteira, com método do cotovelo e visualização 2D e 3D. | Python · pandas · scikit-learn |
+| [**Estudos**](https://github.com/DiogusVincere/faculdade) | Exercícios e protótipos em Flutter, Node, Vue e IA, organizados por disciplina. | Dart · JavaScript · Python |
 
-<div> 
-  <a href="https://www.instagram.com/diogovieiiraa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatodiogovlima03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diogo-vieira-de-lima-165767234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Tecnologias
+
+**Linguagens**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+
+**Frameworks e bibliotecas**
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+
+**Ferramentas e nuvem**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+## Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiogusVincere&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://streak-stats.demolab.com?user=DiogusVincere&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogusVincere&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br&langs_count=8&hide=html,css,cmake,c,c%2B%2B,swift,kotlin,objective-c" height="165" alt="Linguagens mais usadas" />
+</p>
+
+## Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogo-vieira-de-lima-165767234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:diogovlima03@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=90&section=footer" width="100%" alt="" />
