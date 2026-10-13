@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Diogo%20Vieira&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Python%20%C2%B7%20automa%C3%A7%C3%A3o%20e%20ferramentas%20internas&descSize=18&descAlignY=72" width="100%" alt="Diogo Vieira" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3b5bb0&height=210&section=header&text=Diogo%20Vieira&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Desenvolvedor%20Python%20%C2%B7%20automa%C3%A7%C3%A3o%20e%20ferramentas%20internas&descSize=18&descAlignY=54&descAlign=50" width="100%" alt="Diogo Vieira" />
 
 ## Sobre mim
 
@@ -76,4 +76,4 @@ de destino. Gosto de problemas em que o dado chega bagunçado e precisa sair con
   <a href="mailto:diogovlima03@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=90&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b5bb0,100:1a1b27&height=90&section=footer" width="100%" alt="" />
