@@ -23,6 +23,8 @@ de destino. Gosto de problemas em que o dado chega bagunçado e precisa sair con
 
 | Projeto | O que faz | Stack |
 |---|---|---|
+| [**Gestor de Demandas**](https://github.com/DiogusVincere/gestor-demandas) | Gestor de tarefas para equipes de serviços que entende pedidos em português: cliente, tipo, prazo, responsável e checklist saem de uma frase ou de uma conversa colada. Servidor HTTP em Python, página sem framework, bolha flutuante, JSON ou SQLite. | Python · JavaScript puro · SQLite |
+| [**Ferramentas Fiscais**](https://github.com/DiogusVincere/ferramentas-fiscais) | Suíte desktop para rotina fiscal: comparador de notas que entende colunas pelo conteúdo, extrator de PDF, XML de NF-e em lote e gerador de inventário (Bloco K) a partir de planilhas em layouts diferentes. | Python · Tkinter · openpyxl · pdfplumber · lxml |
 | [**MangeTech**](https://github.com/DiogusVincere/mangetech) | Chamados de manutenção e gestão de ativos com QR code, papéis de usuário e histórico. API no Azure, painel web na Vercel e app mobile. Projeto em equipe. | Django REST · Vue 3 + TypeScript · Flutter |
 | [**AgroTech**](https://github.com/DiogusVincere/agrotech-app) | App de monitoramento IoT para cultivo: sensores, acionamento de bomba por API, previsão do tempo e chatbot. | Flutter · API REST · Langflow |
 | [**Mange Books**](https://github.com/DiogusVincere/mange-books) | Sistema de biblioteca com cadastro, reservas, avaliações e autenticação. | Vue 3 · Node/Express · MongoDB · JWT |
