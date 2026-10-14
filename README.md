@@ -28,7 +28,7 @@ de destino. Gosto de problemas em que o dado chega bagunçado e precisa sair con
 | [**Ferramentas Fiscais**](https://github.com/DiogusVincere/ferramentas-fiscais) | Suíte desktop para rotina fiscal: comparador de notas que entende colunas pelo conteúdo, extrator de PDF, XML de NF-e em lote e gerador de inventário (Bloco K) a partir de planilhas em layouts diferentes. | Python · Tkinter · openpyxl · pdfplumber · lxml |
 | [**MangeTech**](https://github.com/DiogusVincere/mangetech) | Chamados de manutenção e gestão de ativos com QR code, papéis de usuário e histórico. API no Azure, painel web na Vercel e app mobile. Projeto em equipe. | Django REST · Vue 3 + TypeScript · Flutter |
 | [**AgroTech**](https://github.com/DiogusVincere/agrotech-app) | App de monitoramento IoT para cultivo: sensores, acionamento de bomba por API, previsão do tempo e chatbot. | Flutter · API REST · Langflow |
-| [**Mange Books**](https://github.com/DiogusVincere/mange-books) | Sistema de biblioteca com cadastro, reservas, avaliações e autenticação. | Vue 3 · Node/Express · MongoDB · JWT |
+| [**Mange Books**](https://github.com/DiogusVincere/mange-books) | Sistema de biblioteca com catálogo, reservas com ciclo completo, avaliações, papéis de leitor e bibliotecário e relatórios. API com testes de integração e CI; demo no ar. | Vue 3 · Node/Express · MongoDB · JWT |
 | [**Análise de ações com K-means**](https://github.com/DiogusVincere/analise-acoes-kmeans) | Análise exploratória e clusterização de uma carteira, com método do cotovelo e visualização 2D e 3D. | Python · pandas · scikit-learn |
 | [**Estudos**](https://github.com/DiogusVincere/faculdade) | Exercícios e protótipos em Flutter, Node, Vue e IA, organizados por disciplina. | Dart · JavaScript · Python |
 
